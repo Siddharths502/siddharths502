@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharths502
 - 👀 I’m interested in ...eVERYTHING
-- 🌱 I’m currently learning ...FULL STACK PHP WEB DEVELOPMENT
+- 🌱 I’m currently Web designer & Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
